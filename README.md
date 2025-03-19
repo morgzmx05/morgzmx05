@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Morgan!</h1>
 <h3 align="center">Currently a 2nd year student studying a Bachelor of Computer Science (Professional) at RMIT, Australia</h3>
 
-- 🌱 I’m interested in learning more about JS, Flask, React and anything cybersecurity related!
+- 🌱 I am currently learning more about Flask, JS, React, and anything cybersecurity related!
 
 - 📫 My personal email: **morganxiao2005@hotmail.com**
 
